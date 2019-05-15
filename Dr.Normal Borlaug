@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<style>
+  .parent {
+    height: auto;
+    border: 1px;
+    padding: 5px;
+  }
+
+  .child {
+    height: 100px;
+    border: 1px;
+  }
+</style>
+  <main id=main>
+  <h1 id=title>Dr. Norman Borlaug</h1>
+  <div id="img-div">
+    <img id="image" class="parent child"</img>
+  <H2 id=img-caption>picture of Dr. Norman Borlaug</h2>
+  <p id=tribute-info>Tribute of Dr.Norman Borlaug and all of his accomplishments</p>
+    <a id="tribute-link"target="_blank"</a>
+  
+  </main>
